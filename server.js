@@ -33,3 +33,16 @@ app.listen(process.env.PORT, (err) => {
   if (err) console.log(err);
   console.log("server running", process.env.PORT);
 });
+
+
+// initially
+// git init
+// git add .
+// git commit -m "message"
+// git remote add origin https://github.com/Vansh516/eKart.git
+// git push -u origin main
+
+// subsequent changes
+// git add .
+// git commit -m "message"
+// git push

@@ -1,8 +1,3 @@
-Here is your complete `README.md` file without any mention of Joi:
-
----
-
-```markdown
 # 📝 Task Management API with User Authentication
 
 A complete RESTful API for managing users and their tasks, built using **Node.js**, **Express.js**, and **MongoDB**. It features secure user registration/login using JWT and supports full CRUD operations for personal task management.
@@ -119,14 +114,3 @@ The server should now be running at `http://localhost:5000`.
 * MongoDB Atlas or local MongoDB
 * Nodemon for live development
 
-## 🙌 Contributing
-
-Feel free to fork this repo, make changes, and submit pull requests. Bug reports and feature suggestions are welcome.
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-**Made with ❤️ using MERN stack principles**
